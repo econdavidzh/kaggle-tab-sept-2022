@@ -1,1 +1,18 @@
-# kaggle-tab-sept-2022
+# Google ML Bootcamp 2022
+Kaggle TPS – September 
+
+## Team: Biased_Underfitted_Imbalanced
+
+Results: 212 out of 1381 teams (Top 16%)
+![image](https://user-images.githubusercontent.com/82787004/193903813-734f5449-88a5-4d03-99c1-d8dfd1dad677.png)
+
+Team Members:
+ 
+
+ 
+ 
+Best Submissions:
+
+ 
+
+![image](https://user-images.githubusercontent.com/82787004/193903906-74f6aa89-27c8-480c-a3d5-d9f32f44b6c4.png)
