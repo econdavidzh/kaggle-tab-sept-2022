@@ -4,14 +4,11 @@ Kaggle TPS – September
 ## Team: Biased_Underfitted_Imbalanced
 
 Results: 212 out of 1381 teams (Top 16%)
-![image](https://user-images.githubusercontent.com/82787004/193903813-734f5449-88a5-4d03-99c1-d8dfd1dad677.png)
 
-Team Members:
- 
-
+##Team Members:
  
  
-Best Submissions:
+
 
  
 
